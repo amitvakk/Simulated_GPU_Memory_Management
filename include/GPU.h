@@ -11,6 +11,7 @@ struct PrefixMatch {
 };
 
 class MemoryBlock;
+class Request;
 class GenerativeRequest;
 class EmbeddingRequest;
 
