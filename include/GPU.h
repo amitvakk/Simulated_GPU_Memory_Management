@@ -11,6 +11,8 @@ struct PrefixMatch {
 };
 
 class MemoryBlock;
+class GenerativeRequest;
+class EmbeddingRequest;
 
 class GPU{
 public:
